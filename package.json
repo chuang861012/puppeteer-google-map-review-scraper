@@ -1,0 +1,30 @@
+{
+    "name": "puppeteer-google-map-review-scraper",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "dependencies": {
+        "axios": "^0.18.1",
+        "csv-writer": "^1.6.0",
+        "dotenv": "^7.0.0",
+        "mongoose": "^5.5.5",
+        "neat-csv": "^5.1.0",
+        "progress": "^2.0.3",
+        "puppeteer": "^1.13.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chuang861012/puppeteer-google-map-review-scraper.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/chuang861012/puppeteer-google-map-review-scraper/issues"
+    },
+    "homepage": "https://github.com/chuang861012/puppeteer-google-map-review-scraper#readme"
+}
